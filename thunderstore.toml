@@ -3,11 +3,11 @@ schemaVersion = "0.0.1"
 
 
 [package]
-namespace = "YourName"
-name = "NoGodLimit"
+namespace = "TheFinalDream"
+name = "Godful"
 versionNumber = "1.0.0"
-description = "Removes the 4-god boon limit. Nothing else -- no ammo bugs, no shop/reward changes."
-websiteUrl = "https://github.com/YourName/NoGodLimit"
+description = "Removes the 4-god boon limit. Nothing else."
+websiteUrl = "https://github.com/thegreatmihai/God-ful"
 containsNsfwContent = false
 
 [package.dependencies]
