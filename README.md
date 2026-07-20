@@ -1,7 +1,7 @@
 # God-ful
 
 I wanted to make a mod myself and here I am. After a long time of working and learning new stuff I can finally say that I did it.
-The mod does what I always wanted. No restrictions.
+The mod does what I always wanted. No restrictions towards how many gods appear in a run.
 
 Features
 ---
