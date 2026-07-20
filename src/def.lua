@@ -1,12 +1,8 @@
----@meta AuthorName-ModName
+---@meta YourName-NoGodLimit
 local public = {}
 
--- document whatever you made publicly available to other plugins here
--- use luaCATS annotations and give descriptions where appropriate
---  e.g. 
---	---@param a integer helpful description
---	---@param b string helpful description
---	---@return table c helpful description
---	function public.do_stuff(a, b) end
+-- This mod exposes no public API. It only patches the game's check for
+-- whether you've already taken boons from as many different gods as
+-- you're allowed to in a single run.
 
 return public
