@@ -20,7 +20,7 @@ Dependencies: [LuaENVY-ENVY](https://thunderstore.io/c/hades-ii/p/LuaENVY/ENVY/)
 
 `Enabled` (default: `true`) -- turn off to restore the vanilla 4-god limit.
 
-Config file: `Hades II\Ship\ReturnOfModding\config\YourName-NoGodLimit.cfg` -- or flip it live from ReturnOfModding's in-game mod menu.
+Config file: `Hades II\Ship\ReturnOfModding\config\thegreatmihai-Godful.cfg` -- or flip it live from ReturnOfModding's in-game mod menu.
 
 ## Credits
 
