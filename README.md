@@ -1,4 +1,4 @@
-# No God Limit
+# God-ful
 
 Removes Hades II's 4-god boon limit, so boons from every god stay available for the whole run. That's the only thing this mod does.
 
@@ -7,7 +7,7 @@ This is a minimal, single-purpose extraction of the "Remove MaxGods limits" feat
 ## Features
 
 - Removes the 4-god boon limit.
-- Nothing else is touched: no reward duplication, no shop changes, no trait-replacement changes.
+- Nothing else is touched.
 - Toggle on/off from ReturnOfModding's in-game mod config menu, or by editing the config file. Takes effect immediately -- no restart required.
 
 ## Requirements
