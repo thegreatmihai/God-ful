@@ -1,0 +1,52 @@
+[config]
+schemaVersion = "0.0.1"
+
+
+[package]
+namespace = "TheFinalDream"
+name = "Godful"
+versionNumber = "0.0.1"
+description = "Allows to uncap the 4 gods per run to every god. Remove MaxGods limits. The ability to get every god in every run. Maybe you want Zeus, Hestia, Demeter, Poseidon and Ares. Idk waht you want, either way now you can have it.
+
+I guess you could say that is amazing with another mod named: **BoonStacker by 1andonlyWeaver** (Amazing guy that made this mod, really!!)"
+websiteUrl = "https://github.com/AuthorName/ModName"
+containsNsfwContent = false
+
+[package.dependencies]
+Hell2Modding-Hell2Modding = "1.0.70"
+LuaENVY-ENVY = "1.2.0"
+SGG_Modding-Chalk = "2.1.1"
+SGG_Modding-ReLoad = "1.0.2"
+SGG_Modding-SJSON = "1.0.0"
+SGG_Modding-ModUtil = "4.0.1"
+
+
+[build]
+icon = "./icon.png"
+readme = "./README.md"
+outdir = "./build"
+
+[[build.copy]]
+source = "./CHANGELOG.md"
+target = "./CHANGELOG.md"
+
+[[build.copy]]
+source = "./LICENSE"
+target = "./LICENSE"
+
+[[build.copy]]
+source = "./src"
+target = "./plugins"
+
+# Uncomment (remove the #) the three lines below if you have any files to copy to the plugins_data folder (like custom .pkg files)
+# [[build.copy]]
+# source = "./data"
+# target = "./plugins_data"
+
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "hades-ii", ]
+
+[publish.categories]
+hades-ii = [ "mods", ]
