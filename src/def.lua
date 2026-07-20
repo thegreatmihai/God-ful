@@ -1,4 +1,4 @@
----@meta YourName-NoGodLimit
+---@meta TheFinalDream-Godful
 local public = {}
 
 -- This mod exposes no public API. It only patches the game's check for
