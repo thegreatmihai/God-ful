@@ -1,0 +1,15 @@
+{
+  "namespace": "TheFinalDream",
+  "name": "Godful",
+  "description": "Removes the 4-god boon limit. Nothing else.",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "Hell2Modding-Hell2Modding = "1.0.70"",
+    "LuaENVY-ENVY = "1.2.0"",
+    "SGG_Modding-Chalk = "2.1.1"",
+    "SGG_Modding-ReLoad = "1.0.2"",
+    "SGG_Modding-ModUtil = "4.0.1""
+  ],
+  "website_url": "https://github.com/thegreatmihai/God-ful",
+  "FullName": "TheFinalDream-Godful"
+}
