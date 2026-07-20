@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: "Tag / Version number 1"
+        description: "Tag / Version number"
         required: true
       image-folder-name:
         description: "Image folder name (for replacing image paths embedded in the README)"
